@@ -1,0 +1,22 @@
+2026-09-13 19:22:30,130 - INFO - [APP] hola
+2026-09-15 16:39:57,454 - ERROR - Error procesando petición de ('127.0.0.1', 43782): replace() argument 2 must be str, not int
+2026-09-15 16:41:16,294 - ERROR - Error procesando petición de ('127.0.0.1', 53320): replace() argument 2 must be str, not int
+2026-09-15 16:41:16,321 - ERROR - Error procesando petición de ('127.0.0.1', 53332): replace() argument 2 must be str, not int
+2026-09-15 16:44:24,898 - ERROR - Error procesando petición de ('127.0.0.1', 42070): replace() argument 2 must be str, not int
+2026-09-15 16:44:24,928 - ERROR - Error procesando petición de ('127.0.0.1', 42072): replace() argument 2 must be str, not int
+2026-09-15 16:46:27,241 - ERROR - Error procesando petición de ('127.0.0.1', 36740): replace() argument 2 must be str, not int
+2026-09-15 17:17:22,546 - INFO - [APP] linea info
+2026-09-15 17:17:22,578 - ERROR - [NET] se cayo
+2026-09-15 17:21:19,850 - INFO - [APP] linea info
+2026-09-15 17:21:19,879 - ERROR - [NET] se cayo
+2026-09-15 17:22:38,871 - INFO - [A] info filtrada
+2026-09-15 17:22:38,901 - ERROR - [B] error visible
+2026-09-15 17:22:41,988 - INFO - [C] crudo
+2026-09-15 17:23:47,316 - INFO - [TLS] por wss
+2026-09-15 17:39:41,204 - INFO - [SS] autofirmado ok
+2026-09-15 17:41:45,076 - WARNING - [V] verificado con CA
+2026-09-15 17:50:18,445 - ERROR - [V] verificado por CA ok
+2026-09-15 17:50:22,032 - INFO - [H] por localhost
+2026-09-15 18:00:56,696 - INFO - [A] desde 127.0.0.1
+2026-09-15 18:01:05,514 - INFO - [C1] uno
+2026-09-15 18:01:05,543 - ERROR - [C2] dos
